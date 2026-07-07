@@ -1,0 +1,26 @@
+# Database (created automatically by init_db() on first run)
+*.db
+*.sqlite3
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.Python
+.venv/
+venv/
+env/
+*.egg-info/
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Backup files
+*.bak
+*_old.py
